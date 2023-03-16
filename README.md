@@ -16,4 +16,4 @@ AUTHORS
 
 LINKS
 =============
-* [http://www.os2world.com/cdwriting/bubblepad/bubblepadmain.htm](https://www.os2world.com/wiki/index.php/Bubblepad)
+* [https://www.os2world.com/wiki/index.php/Bubblepad](https://www.os2world.com/wiki/index.php/Bubblepad)
